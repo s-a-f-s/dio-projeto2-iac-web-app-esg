@@ -1,6 +1,6 @@
 # Story Website Deployment (Apache2 on VM)
 
-Este projeto demonstra como automatizar o deploy do **[Story HTML5UP template](https://html5up.net/story)** em um servidor Apache2 rodando em uma máquina virtual para fins de **teste e aprendizado**.
+Este projeto demonstra como automatizar o deploy do website em um servidor Apache2 rodando em uma máquina virtual para fins de **teste e aprendizado**.
 
 ---
 
