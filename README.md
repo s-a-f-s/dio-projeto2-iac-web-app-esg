@@ -1,4 +1,4 @@
-# Story Website Deployment (Apache2 on VM)
+# Website Deployment (Apache2 on VM)
 
 Este projeto demonstra como automatizar o deploy do website em um servidor Apache2 rodando em uma máquina virtual para fins de **teste e aprendizado**.
 
